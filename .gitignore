@@ -5,3 +5,6 @@ dist
 __pycache__
 *.pyc
 .venv
+
+# Source PDFs — not redistributed. Place locally if you want to re-run `npm run extract`.
+*.pdf
