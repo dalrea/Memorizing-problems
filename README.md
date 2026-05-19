@@ -34,12 +34,22 @@ npm run validate-data   # questions.json 무결성 검증
 
 ## PDF에서 데이터 다시 추출
 
-이 저장소에는 이미 추출된 `src/data/questions.json` 과 `public/data/questions.json` 이 포함되어 있습니다. PDF가 갱신되었거나 추출을 다시 돌리고 싶다면:
+이 저장소에는 이미 추출된 `src/data/questions.json` 과 `public/data/questions.json` 이 포함되어 있습니다. PDF 원본은 저장소에 포함되어 있지 않습니다.
+
+PDF를 갱신했거나 추출을 다시 돌리려면 아래 폴더에 원본을 두세요:
+
+```
+pdf/answers/   ← 교사용 PDF (문제 + 본문 정답)
+pdf/explains/  ← 해설집 PDF (공식 해설)
+```
+
+그런 다음:
 
 ```bash
-npm run extract                       # 1) PDF → questions.json (자동 추출)
-python scripts/generate_explanations.py  # 2) 비어있는 해설 채움
-npm run validate-data                 # 3) 무결성 검증
+npm run extract                          # 1) 교사용 PDF → questions.json
+npm run extract-images                   # 2) 시각 자료 자동 crop (webp)
+npm run extract-explanations             # 3) 해설집 PDF → explanation 채움
+npm run validate-data                    # 4) 무결성 검증
 ```
 
 추출 로직:

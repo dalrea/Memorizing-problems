@@ -8,6 +8,8 @@
     "build": "tsc --noEmit && vite build",
     "preview": "vite preview",
     "extract": "python scripts/extract_pdf.py",
+    "extract-images": "python scripts/extract_images.py",
+    "extract-explanations": "python scripts/extract_explanations.py",
     "validate-data": "tsx scripts/validate-data.ts"
   },
   "devDependencies": {
