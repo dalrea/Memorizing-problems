@@ -312,9 +312,12 @@ def process_pdf(path: Path):
 
 
 def main():
-    pdfs = sorted(ROOT.glob("정보처리기사*.pdf"))
+    # PDFs may live in ./pdf/answers/ (preferred) or the project root.
+    pdfs = sorted((ROOT / "pdf" / "answers").glob("정보처리기사*.pdf"))
     if not pdfs:
-        print("PDF를 찾지 못했습니다. 작업 폴더에 정보처리기사*.pdf 를 두세요.", file=sys.stderr)
+        pdfs = sorted(ROOT.glob("정보처리기사*.pdf"))
+    if not pdfs:
+        print("PDF를 찾지 못했습니다. pdf/answers/ 또는 작업 폴더에 정보처리기사*.pdf 를 두세요.", file=sys.stderr)
         sys.exit(1)
 
     all_questions: List[dict] = []

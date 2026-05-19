@@ -660,12 +660,7 @@
     "conceptTags": [
       "소프트웨어 설계",
       "객체지향 개념"
-    ],
-    "visual": {
-      "type": "image",
-      "src": "assets/questions/20200606-020.webp",
-      "alt": "문제 20번 시각 자료"
-    }
+    ]
   },
   {
     "id": "20200606-021",
@@ -798,7 +793,12 @@
     "explanation": "정답은 2번 'STAF'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "소프트웨어 개발"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200606-024.webp",
+      "alt": "문제 24번 시각 자료"
+    }
   },
   {
     "id": "20200606-025",
@@ -935,7 +935,12 @@
     "conceptTags": [
       "소프트웨어 개발",
       "블랙박스 테스트"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200606-028.webp",
+      "alt": "문제 28번 시각 자료"
+    }
   },
   {
     "id": "20200606-029",
@@ -1400,7 +1405,12 @@
     "conceptTags": [
       "데이터베이스 구축",
       "외래키 / 참조 무결성"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200606-042.webp",
+      "alt": "문제 42번 시각 자료"
+    }
   },
   {
     "id": "20200606-043",
@@ -1499,7 +1509,12 @@
     "explanation": "정답은 4번 '25,000'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "데이터베이스 구축"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200606-045.webp",
+      "alt": "문제 45번 시각 자료"
+    }
   },
   {
     "id": "20200606-046",
@@ -1632,12 +1647,7 @@
     "explanation": "정답은 3번 'ⓐ 130, ⓑ 3'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "데이터베이스 구축"
-    ],
-    "visual": {
-      "type": "image",
-      "src": "assets/questions/20200606-049.webp",
-      "alt": "문제 49번 시각 자료"
-    }
+    ]
   },
   {
     "id": "20200606-050",
@@ -1703,7 +1713,12 @@
       "데이터베이스 구축",
       "트랜잭션 ACID",
       "해시 함수"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200606-051.webp",
+      "alt": "문제 51번 시각 자료"
+    }
   },
   {
     "id": "20200606-052",
@@ -1968,7 +1983,12 @@
     "explanation": "정답은 2번 '최소성'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "데이터베이스 구축"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200606-059.webp",
+      "alt": "문제 59번 시각 자료"
+    }
   },
   {
     "id": "20200606-060",
@@ -2558,7 +2578,12 @@
     "conceptTags": [
       "프로그래밍 언어 활용",
       "메모리 관리"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200606-077.webp",
+      "alt": "문제 77번 시각 자료"
+    }
   },
   {
     "id": "20200606-078",
@@ -3057,7 +3082,12 @@
       "정보시스템 구축관리",
       "객체지향 개념",
       "하둡"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200606-092.webp",
+      "alt": "문제 92번 시각 자료"
+    }
   },
   {
     "id": "20200606-093",
@@ -3290,7 +3320,12 @@
       "정보시스템 구축관리",
       "랜섬웨어",
       "스미싱"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200606-099.webp",
+      "alt": "문제 99번 시각 자료"
+    }
   },
   {
     "id": "20200606-100",
@@ -3389,7 +3424,12 @@
     "conceptTags": [
       "소프트웨어 설계",
       "GoF 디자인 패턴"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200822-002.webp",
+      "alt": "문제 2번 시각 자료"
+    }
   },
   {
     "id": "20200822-003",
@@ -3685,7 +3725,12 @@
     "explanation": "정답은 1번 '협약(Contract)'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "소프트웨어 설계"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200822-011.webp",
+      "alt": "문제 11번 시각 자료"
+    }
   },
   {
     "id": "20200822-012",
@@ -3784,7 +3829,12 @@
     "conceptTags": [
       "소프트웨어 설계",
       "일반화"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200822-014.webp",
+      "alt": "문제 14번 시각 자료"
+    }
   },
   {
     "id": "20200822-015",
@@ -4217,7 +4267,12 @@
     "conceptTags": [
       "소프트웨어 개발",
       "SQL"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200822-027.webp",
+      "alt": "문제 27번 시각 자료"
+    }
   },
   {
     "id": "20200822-028",
@@ -4519,7 +4574,12 @@
     "explanation": "정답은 1번 '하향식 통합 테스트'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "소프트웨어 개발"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200822-036.webp",
+      "alt": "문제 36번 시각 자료"
+    }
   },
   {
     "id": "20200822-037",
@@ -4551,7 +4611,12 @@
     "explanation": "정답은 4번 'AJAX'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "소프트웨어 개발"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200822-037.webp",
+      "alt": "문제 37번 시각 자료"
+    }
   },
   {
     "id": "20200822-038",
@@ -4647,7 +4712,12 @@
     "explanation": "정답은 2번 '3'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "소프트웨어 개발"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200822-040.webp",
+      "alt": "문제 40번 시각 자료"
+    }
   },
   {
     "id": "20200822-041",
@@ -4712,7 +4782,12 @@
     "explanation": "정답은 4번 'relation 1개, attribute 3개, tuple 5개'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "데이터베이스 구축"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200822-042.webp",
+      "alt": "문제 42번 시각 자료"
+    }
   },
   {
     "id": "20200822-043",
@@ -4777,12 +4852,7 @@
     "explanation": "정답은 2번 ''. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "데이터베이스 구축"
-    ],
-    "visual": {
-      "type": "image",
-      "src": "assets/questions/20200822-044.webp",
-      "alt": "문제 44번 시각 자료"
-    }
+    ]
   },
   {
     "id": "20200822-045",
@@ -5046,7 +5116,12 @@
     "explanation": "정답은 4번 ''. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "데이터베이스 구축"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200822-052.webp",
+      "alt": "문제 52번 시각 자료"
+    }
   },
   {
     "id": "20200822-053",
@@ -5182,7 +5257,12 @@
     "conceptTags": [
       "데이터베이스 구축",
       "정규화"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200822-056.webp",
+      "alt": "문제 56번 시각 자료"
+    }
   },
   {
     "id": "20200822-057",
@@ -5345,7 +5425,12 @@
     "explanation": "정답은 1번 'int i = 7, j = 9; int k; k = (i＞j)?(i – j):(i + j);'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200822-061.webp",
+      "alt": "문제 61번 시각 자료"
+    }
   },
   {
     "id": "20200822-062",
@@ -5377,7 +5462,12 @@
     "explanation": "정답은 3번 '버퍼 오버플로'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200822-062.webp",
+      "alt": "문제 62번 시각 자료"
+    }
   },
   {
     "id": "20200822-063",
@@ -5638,7 +5728,12 @@
     "conceptTags": [
       "프로그래밍 언어 활용",
       "응집도"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200822-070.webp",
+      "alt": "문제 70번 시각 자료"
+    }
   },
   {
     "id": "20200822-071",
@@ -5736,7 +5831,12 @@
     "explanation": "정답은 4번 'NO.5'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200822-073.webp",
+      "alt": "문제 73번 시각 자료"
+    }
   },
   {
     "id": "20200822-074",
@@ -5801,7 +5901,12 @@
     "explanation": "정답은 3번 'string[0:3] + string[-3:]'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200822-075.webp",
+      "alt": "문제 75번 시각 자료"
+    }
   },
   {
     "id": "20200822-076",
@@ -5898,7 +6003,12 @@
     "explanation": "정답은 3번 '25'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200822-078.webp",
+      "alt": "문제 78번 시각 자료"
+    }
   },
   {
     "id": "20200822-079",
@@ -6059,7 +6169,12 @@
     "explanation": "정답은 4번 'Mashup'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "정보시스템 구축관리"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200822-083.webp",
+      "alt": "문제 83번 시각 자료"
+    }
   },
   {
     "id": "20200822-084",
@@ -6355,7 +6470,12 @@
     "explanation": "정답은 3번 '14일'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "정보시스템 구축관리"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200822-092.webp",
+      "alt": "문제 92번 시각 자료"
+    }
   },
   {
     "id": "20200822-093",
@@ -6456,7 +6576,12 @@
     "conceptTags": [
       "정보시스템 구축관리",
       "나선형 모형"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200822-095.webp",
+      "alt": "문제 95번 시각 자료"
+    }
   },
   {
     "id": "20200822-096",
@@ -6521,7 +6646,12 @@
     "conceptTags": [
       "정보시스템 구축관리",
       "보안 3요소"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200822-097.webp",
+      "alt": "문제 97번 시각 자료"
+    }
   },
   {
     "id": "20200822-098",
@@ -6787,7 +6917,12 @@
     "conceptTags": [
       "소프트웨어 설계",
       "객체지향 개념"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200926-005.webp",
+      "alt": "문제 5번 시각 자료"
+    }
   },
   {
     "id": "20200926-006",
@@ -7509,7 +7644,12 @@
     "conceptTags": [
       "소프트웨어 개발",
       "삽입 정렬"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200926-027.webp",
+      "alt": "문제 27번 시각 자료"
+    }
   },
   {
     "id": "20200926-028",
@@ -7745,7 +7885,12 @@
     "explanation": "정답은 3번 '테스트 오라클'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "소프트웨어 개발"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200926-034.webp",
+      "alt": "문제 34번 시각 자료"
+    }
   },
   {
     "id": "20200926-035",
@@ -7908,7 +8053,12 @@
     "conceptTags": [
       "소프트웨어 개발",
       "다형성"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200926-039.webp",
+      "alt": "문제 39번 시각 자료"
+    }
   },
   {
     "id": "20200926-040",
@@ -8173,7 +8323,12 @@
     "conceptTags": [
       "데이터베이스 구축",
       "SQL"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200926-047.webp",
+      "alt": "문제 47번 시각 자료"
+    }
   },
   {
     "id": "20200926-048",
@@ -8307,7 +8462,12 @@
     "explanation": "정답은 3번 ''. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "데이터베이스 구축"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200926-051.webp",
+      "alt": "문제 51번 시각 자료"
+    }
   },
   {
     "id": "20200926-052",
@@ -8794,7 +8954,12 @@
     "explanation": "정답은 2번 'wow 사용자가 로그인할 때까지 반복문을 수행한다.'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200926-066.webp",
+      "alt": "문제 66번 시각 자료"
+    }
   },
   {
     "id": "20200926-067",
@@ -8826,7 +8991,12 @@
     "explanation": "정답은 4번 'Unresolved compilation problem 오류 발생'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200926-067.webp",
+      "alt": "문제 67번 시각 자료"
+    }
   },
   {
     "id": "20200926-068",
@@ -8858,7 +9028,12 @@
     "explanation": "정답은 3번 '[0, 20, 40, 60]'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200926-068.webp",
+      "alt": "문제 68번 시각 자료"
+    }
   },
   {
     "id": "20200926-069",
@@ -8924,7 +9099,12 @@
       "프로그래밍 언어 활용",
       "큐",
       "스케줄링"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200926-070.webp",
+      "alt": "문제 70번 시각 자료"
+    }
   },
   {
     "id": "20200926-071",
@@ -9356,7 +9536,12 @@
     "conceptTags": [
       "정보시스템 구축관리",
       "폭포수 모형"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200926-083.webp",
+      "alt": "문제 83번 시각 자료"
+    }
   },
   {
     "id": "20200926-084",
@@ -9420,7 +9605,12 @@
     "explanation": "정답은 1번 'DAS'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "정보시스템 구축관리"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200926-085.webp",
+      "alt": "문제 85번 시각 자료"
+    }
   },
   {
     "id": "20200926-086",
@@ -9552,7 +9742,12 @@
     "explanation": "정답은 2번 'MAC'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "정보시스템 구축관리"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200926-089.webp",
+      "alt": "문제 89번 시각 자료"
+    }
   },
   {
     "id": "20200926-090",
@@ -9684,7 +9879,12 @@
     "conceptTags": [
       "정보시스템 구축관리",
       "IP 주소"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200926-093.webp",
+      "alt": "문제 93번 시각 자료"
+    }
   },
   {
     "id": "20200926-094",
@@ -9878,7 +10078,12 @@
     "explanation": "정답은 1번 'MapReduce'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "정보시스템 구축관리"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20200926-099.webp",
+      "alt": "문제 99번 시각 자료"
+    }
   },
   {
     "id": "20200926-100",
@@ -10176,7 +10381,12 @@
     "explanation": "정답은 2번 'fan-in : 3, fan-out : 2'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "소프트웨어 설계"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210307-008.webp",
+      "alt": "문제 8번 시각 자료"
+    }
   },
   {
     "id": "20210307-009",
@@ -10439,12 +10649,7 @@
     "conceptTags": [
       "소프트웨어 설계",
       "럼바우 분석"
-    ],
-    "visual": {
-      "type": "image",
-      "src": "assets/questions/20210307-016.webp",
-      "alt": "문제 16번 시각 자료"
-    }
+    ]
   },
   {
     "id": "20210307-017",
@@ -10606,7 +10811,12 @@
     "explanation": "정답은 2번 '㉡-㉠-㉣-㉢'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "소프트웨어 개발"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210307-021.webp",
+      "alt": "문제 21번 시각 자료"
+    }
   },
   {
     "id": "20210307-022",
@@ -10639,7 +10849,12 @@
     "conceptTags": [
       "소프트웨어 개발",
       "SQL"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210307-022.webp",
+      "alt": "문제 22번 시각 자료"
+    }
   },
   {
     "id": "20210307-023",
@@ -10705,7 +10920,12 @@
     "explanation": "정답은 4번 'A B C + * D / E -'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "소프트웨어 개발"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210307-024.webp",
+      "alt": "문제 24번 시각 자료"
+    }
   },
   {
     "id": "20210307-025",
@@ -10738,12 +10958,7 @@
     "conceptTags": [
       "소프트웨어 개발",
       "스택"
-    ],
-    "visual": {
-      "type": "image",
-      "src": "assets/questions/20210307-025.webp",
-      "alt": "문제 25번 시각 자료"
-    }
+    ]
   },
   {
     "id": "20210307-026",
@@ -11274,7 +11489,12 @@
     "conceptTags": [
       "데이터베이스 구축",
       "SQL"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210307-041.webp",
+      "alt": "문제 41번 시각 자료"
+    }
   },
   {
     "id": "20210307-042",
@@ -11375,7 +11595,12 @@
     "explanation": "정답은 2번 '카디널리티 : 4, 차수 : 6'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "데이터베이스 구축"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210307-044.webp",
+      "alt": "문제 44번 시각 자료"
+    }
   },
   {
     "id": "20210307-045",
@@ -11408,7 +11633,12 @@
     "conceptTags": [
       "데이터베이스 구축",
       "트랜잭션 ACID"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210307-045.webp",
+      "alt": "문제 45번 시각 자료"
+    }
   },
   {
     "id": "20210307-046",
@@ -11507,7 +11737,12 @@
     "conceptTags": [
       "데이터베이스 구축",
       "정규화"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210307-048.webp",
+      "alt": "문제 48번 시각 자료"
+    }
   },
   {
     "id": "20210307-049",
@@ -11776,12 +12011,7 @@
       "데이터베이스 구축",
       "정규화",
       "트랜잭션 ACID"
-    ],
-    "visual": {
-      "type": "image",
-      "src": "assets/questions/20210307-056.webp",
-      "alt": "문제 56번 시각 자료"
-    }
+    ]
   },
   {
     "id": "20210307-057",
@@ -11813,7 +12043,12 @@
     "explanation": "정답은 2번 ''. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "데이터베이스 구축"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210307-057.webp",
+      "alt": "문제 57번 시각 자료"
+    }
   },
   {
     "id": "20210307-058",
@@ -11845,12 +12080,7 @@
     "explanation": "정답은 3번 'ALTER'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "데이터베이스 구축"
-    ],
-    "visual": {
-      "type": "image",
-      "src": "assets/questions/20210307-058.webp",
-      "alt": "문제 58번 시각 자료"
-    }
+    ]
   },
   {
     "id": "20210307-059",
@@ -12241,7 +12471,12 @@
     "explanation": "정답은 4번 '5 + 2 = 34<chal>5 + 2 = 7'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210307-070.webp",
+      "alt": "문제 70번 시각 자료"
+    }
   },
   {
     "id": "20210307-071",
@@ -12340,7 +12575,12 @@
     "conceptTags": [
       "프로그래밍 언어 활용",
       "결합도"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210307-073.webp",
+      "alt": "문제 73번 시각 자료"
+    }
   },
   {
     "id": "20210307-074",
@@ -12374,7 +12614,12 @@
       "프로그래밍 언어 활용",
       "메모리 관리",
       "비용 산정"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210307-074.webp",
+      "alt": "문제 74번 시각 자료"
+    }
   },
   {
     "id": "20210307-075",
@@ -12535,7 +12780,12 @@
     "explanation": "정답은 1번 'A, B, C 출력이 반복된다.'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210307-079.webp",
+      "alt": "문제 79번 시각 자료"
+    }
   },
   {
     "id": "20210307-080",
@@ -12667,7 +12917,12 @@
     "explanation": "정답은 4번 'MQTT'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "정보시스템 구축관리"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210307-083.webp",
+      "alt": "문제 83번 시각 자료"
+    }
   },
   {
     "id": "20210307-084",
@@ -12863,7 +13118,12 @@
     "explanation": "정답은 2번 'Baas'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "정보시스템 구축관리"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210307-089.webp",
+      "alt": "문제 89번 시각 자료"
+    }
   },
   {
     "id": "20210307-090",
@@ -12929,7 +13189,12 @@
     "explanation": "정답은 3번 '버스형'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "정보시스템 구축관리"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210307-091.webp",
+      "alt": "문제 91번 시각 자료"
+    }
   },
   {
     "id": "20210307-092",
@@ -12995,7 +13260,12 @@
       "정보시스템 구축관리",
       "폭포수 모형",
       "나선형 모형"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210307-093.webp",
+      "alt": "문제 93번 시각 자료"
+    }
   },
   {
     "id": "20210307-094",
@@ -13318,7 +13588,12 @@
     "explanation": "정답은 1번 '㉠ - ㉡ - ㉢ - ㉣'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "소프트웨어 설계"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210515-003.webp",
+      "alt": "문제 3번 시각 자료"
+    }
   },
   {
     "id": "20210515-004",
@@ -13516,7 +13791,12 @@
     "explanation": "정답은 3번 '송신 시스템'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "소프트웨어 설계"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210515-009.webp",
+      "alt": "문제 9번 시각 자료"
+    }
   },
   {
     "id": "20210515-010",
@@ -13973,7 +14253,12 @@
     "explanation": "정답은 2번 '결함 집중'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "소프트웨어 개발"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210515-023.webp",
+      "alt": "문제 23번 시각 자료"
+    }
   },
   {
     "id": "20210515-024",
@@ -14169,7 +14454,12 @@
     "explanation": "정답은 2번 '분산 저장소 방식'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "소프트웨어 개발"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210515-029.webp",
+      "alt": "문제 29번 시각 자료"
+    }
   },
   {
     "id": "20210515-030",
@@ -14235,7 +14525,12 @@
     "conceptTags": [
       "소프트웨어 개발",
       "버블 정렬"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210515-031.webp",
+      "alt": "문제 31번 시각 자료"
+    }
   },
   {
     "id": "20210515-032",
@@ -15028,7 +15323,12 @@
     "conceptTags": [
       "데이터베이스 구축",
       "SQL"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210515-055.webp",
+      "alt": "문제 55번 시각 자료"
+    }
   },
   {
     "id": "20210515-056",
@@ -15225,7 +15525,12 @@
     "explanation": "정답은 3번 'CSMA/CA'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210515-061.webp",
+      "alt": "문제 61번 시각 자료"
+    }
   },
   {
     "id": "20210515-062",
@@ -15290,7 +15595,12 @@
     "explanation": "정답은 3번 '7'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210515-063.webp",
+      "alt": "문제 63번 시각 자료"
+    }
   },
   {
     "id": "20210515-064",
@@ -15322,7 +15632,12 @@
     "explanation": "정답은 4번 '6'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210515-064.webp",
+      "alt": "문제 64번 시각 자료"
+    }
   },
   {
     "id": "20210515-065",
@@ -15419,7 +15734,12 @@
     "explanation": "정답은 1번 '5, 5, 5'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210515-067.webp",
+      "alt": "문제 67번 시각 자료"
+    }
   },
   {
     "id": "20210515-068",
@@ -15518,7 +15838,12 @@
     "explanation": "정답은 1번 '2'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210515-070.webp",
+      "alt": "문제 70번 시각 자료"
+    }
   },
   {
     "id": "20210515-071",
@@ -15583,7 +15908,12 @@
     "explanation": "정답은 3번 '66'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210515-072.webp",
+      "alt": "문제 72번 시각 자료"
+    }
   },
   {
     "id": "20210515-073",
@@ -15615,7 +15945,12 @@
     "explanation": "정답은 3번 '121'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210515-073.webp",
+      "alt": "문제 73번 시각 자료"
+    }
   },
   {
     "id": "20210515-074",
@@ -15746,7 +16081,12 @@
     "explanation": "정답은 1번 '㉠, ㉥, ㉣, ㉢, ㉡, ㉤'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210515-077.webp",
+      "alt": "문제 77번 시각 자료"
+    }
   },
   {
     "id": "20210515-078",
@@ -16380,7 +16720,12 @@
     "conceptTags": [
       "정보시스템 구축관리",
       "비용 산정"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210515-096.webp",
+      "alt": "문제 96번 시각 자료"
+    }
   },
   {
     "id": "20210515-097",
@@ -17237,7 +17582,12 @@
     "conceptTags": [
       "소프트웨어 개발",
       "버블 정렬"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210814-022.webp",
+      "alt": "문제 22번 시각 자료"
+    }
   },
   {
     "id": "20210814-023",
@@ -17301,7 +17651,12 @@
     "explanation": "정답은 3번 '모듈'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "소프트웨어 개발"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210814-024.webp",
+      "alt": "문제 24번 시각 자료"
+    }
   },
   {
     "id": "20210814-025",
@@ -17401,7 +17756,12 @@
     "conceptTags": [
       "소프트웨어 개발",
       "스택"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210814-027.webp",
+      "alt": "문제 27번 시각 자료"
+    }
   },
   {
     "id": "20210814-028",
@@ -17927,7 +18287,12 @@
     "explanation": "정답은 4번 '자격증 기출문제 정보처리기사 ◐ 2021년 08월 14일 필기 기출문제'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "데이터베이스 구축"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210814-043.webp",
+      "alt": "문제 43번 시각 자료"
+    }
   },
   {
     "id": "20210814-044",
@@ -18125,7 +18490,12 @@
     "conceptTags": [
       "데이터베이스 구축",
       "외래키 / 참조 무결성"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210814-049.webp",
+      "alt": "문제 49번 시각 자료"
+    }
   },
   {
     "id": "20210814-050",
@@ -18488,12 +18858,7 @@
     "conceptTags": [
       "데이터베이스 구축",
       "뷰"
-    ],
-    "visual": {
-      "type": "image",
-      "src": "assets/questions/20210814-060.webp",
-      "alt": "문제 60번 시각 자료"
-    }
+    ]
   },
   {
     "id": "20210814-061",
@@ -18591,7 +18956,12 @@
     "explanation": "정답은 3번 '66'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210814-063.webp",
+      "alt": "문제 63번 시각 자료"
+    }
   },
   {
     "id": "20210814-064",
@@ -18623,7 +18993,12 @@
     "explanation": "정답은 2번 'nationalter'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210814-064.webp",
+      "alt": "문제 64번 시각 자료"
+    }
   },
   {
     "id": "20210814-065",
@@ -18852,7 +19227,12 @@
     "explanation": "정답은 3번 '8'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210814-071.webp",
+      "alt": "문제 71번 시각 자료"
+    }
   },
   {
     "id": "20210814-072",
@@ -18917,7 +19297,12 @@
     "explanation": "정답은 3번 '34'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210814-073.webp",
+      "alt": "문제 73번 시각 자료"
+    }
   },
   {
     "id": "20210814-074",
@@ -19477,7 +19862,12 @@
     "explanation": "정답은 1번 'Software Defined Storage'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "정보시스템 구축관리"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210814-090.webp",
+      "alt": "문제 90번 시각 자료"
+    }
   },
   {
     "id": "20210814-091",
@@ -19543,7 +19933,12 @@
     "conceptTags": [
       "정보시스템 구축관리",
       "랜섬웨어"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20210814-092.webp",
+      "alt": "문제 92번 시각 자료"
+    }
   },
   {
     "id": "20210814-093",
@@ -20308,7 +20703,12 @@
     "explanation": "정답은 1번 '㉮ → ㉯ → ㉰ → ㉱ → ㉲'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "소프트웨어 설계"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220305-015.webp",
+      "alt": "문제 15번 시각 자료"
+    }
   },
   {
     "id": "20220305-016",
@@ -20571,7 +20971,12 @@
     "conceptTags": [
       "소프트웨어 개발",
       "스택"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220305-023.webp",
+      "alt": "문제 23번 시각 자료"
+    }
   },
   {
     "id": "20220305-024",
@@ -21025,7 +21430,12 @@
     "conceptTags": [
       "소프트웨어 개발",
       "화이트박스 테스트"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220305-037.webp",
+      "alt": "문제 37번 시각 자료"
+    }
   },
   {
     "id": "20220305-038",
@@ -21352,7 +21762,12 @@
     "explanation": "정답은 1번 'Degree : 4, Cardinality : 3'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "데이터베이스 구축"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220305-047.webp",
+      "alt": "문제 47번 시각 자료"
+    }
   },
   {
     "id": "20220305-048",
@@ -21548,7 +21963,12 @@
     "explanation": "정답은 4번 '5'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "데이터베이스 구축"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220305-053.webp",
+      "alt": "문제 53번 시각 자료"
+    }
   },
   {
     "id": "20220305-054",
@@ -21580,7 +22000,12 @@
     "explanation": "정답은 1번 '점수 ＞= 90 AND 점수 ＜= 95'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "데이터베이스 구축"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220305-054.webp",
+      "alt": "문제 54번 시각 자료"
+    }
   },
   {
     "id": "20220305-055",
@@ -21749,12 +22174,7 @@
     "conceptTags": [
       "데이터베이스 구축",
       "뷰"
-    ],
-    "visual": {
-      "type": "image",
-      "src": "assets/questions/20220305-059.webp",
-      "alt": "문제 59번 시각 자료"
-    }
+    ]
   },
   {
     "id": "20220305-060",
@@ -21851,7 +22271,12 @@
     "explanation": "정답은 3번 '8, 9'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220305-062.webp",
+      "alt": "문제 62번 시각 자료"
+    }
   },
   {
     "id": "20220305-063",
@@ -22081,7 +22506,12 @@
     "explanation": "정답은 4번 'Semaphore'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220305-069.webp",
+      "alt": "문제 69번 시각 자료"
+    }
   },
   {
     "id": "20220305-070",
@@ -22177,7 +22607,12 @@
     "explanation": "정답은 4번 'i = 4'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220305-072.webp",
+      "alt": "문제 72번 시각 자료"
+    }
   },
   {
     "id": "20220305-073",
@@ -22339,7 +22774,12 @@
     "explanation": "정답은 1번 ''. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220305-077.webp",
+      "alt": "문제 77번 시각 자료"
+    }
   },
   {
     "id": "20220305-078",
@@ -22371,7 +22811,12 @@
     "explanation": "정답은 2번 '1'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220305-078.webp",
+      "alt": "문제 78번 시각 자료"
+    }
   },
   {
     "id": "20220305-079",
@@ -22403,7 +22848,12 @@
     "explanation": "정답은 2번 '최강 ◑'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220305-079.webp",
+      "alt": "문제 79번 시각 자료"
+    }
   },
   {
     "id": "20220305-080",
@@ -22501,7 +22951,12 @@
     "conceptTags": [
       "정보시스템 구축관리",
       "보안 3요소"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220305-082.webp",
+      "alt": "문제 82번 시각 자료"
+    }
   },
   {
     "id": "20220305-083",
@@ -22565,7 +23020,12 @@
     "explanation": "정답은 1번 'DAS'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "정보시스템 구축관리"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220305-084.webp",
+      "alt": "문제 84번 시각 자료"
+    }
   },
   {
     "id": "20220305-085",
@@ -22732,7 +23192,12 @@
       "정보시스템 구축관리",
       "객체지향 개념",
       "하둡"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220305-089.webp",
+      "alt": "문제 89번 시각 자료"
+    }
   },
   {
     "id": "20220305-090",
@@ -22766,7 +23231,12 @@
       "정보시스템 구축관리",
       "스택",
       "IP 주소"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220305-090.webp",
+      "alt": "문제 90번 시각 자료"
+    }
   },
   {
     "id": "20220305-091",
@@ -22992,7 +23462,12 @@
     "explanation": "정답은 4번 'wtmp'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "정보시스템 구축관리"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220305-097.webp",
+      "alt": "문제 97번 시각 자료"
+    }
   },
   {
     "id": "20220305-098",
@@ -23423,7 +23898,12 @@
     "explanation": "정답은 4번 '인터페이스(Interface)'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "소프트웨어 설계"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220424-010.webp",
+      "alt": "문제 10번 시각 자료"
+    }
   },
   {
     "id": "20220424-011",
@@ -23817,7 +24297,12 @@
     "explanation": "정답은 2번 '3'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "소프트웨어 개발"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220424-022.webp",
+      "alt": "문제 22번 시각 자료"
+    }
   },
   {
     "id": "20220424-023",
@@ -24145,7 +24630,12 @@
     "conceptTags": [
       "소프트웨어 개발",
       "버블 정렬"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220424-032.webp",
+      "alt": "문제 32번 시각 자료"
+    }
   },
   {
     "id": "20220424-033",
@@ -24178,7 +24668,12 @@
     "conceptTags": [
       "소프트웨어 개발",
       "인스펙션"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220424-033.webp",
+      "alt": "문제 33번 시각 자료"
+    }
   },
   {
     "id": "20220424-034",
@@ -24308,7 +24803,12 @@
     "conceptTags": [
       "소프트웨어 개발",
       "후위 순회"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220424-037.webp",
+      "alt": "문제 37번 시각 자료"
+    }
   },
   {
     "id": "20220424-038",
@@ -24440,7 +24940,12 @@
     "conceptTags": [
       "데이터베이스 구축",
       "정규화"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220424-041.webp",
+      "alt": "문제 41번 시각 자료"
+    }
   },
   {
     "id": "20220424-042",
@@ -24473,7 +24978,12 @@
     "conceptTags": [
       "데이터베이스 구축",
       "트랜잭션 ACID"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220424-042.webp",
+      "alt": "문제 42번 시각 자료"
+    }
   },
   {
     "id": "20220424-043",
@@ -24907,12 +25417,7 @@
     "conceptTags": [
       "데이터베이스 구축",
       "외래키 / 참조 무결성"
-    ],
-    "visual": {
-      "type": "image",
-      "src": "assets/questions/20220424-055.webp",
-      "alt": "문제 55번 시각 자료"
-    }
+    ]
   },
   {
     "id": "20220424-056",
@@ -25151,7 +25656,12 @@
     "explanation": "정답은 2번 '２'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220424-062.webp",
+      "alt": "문제 62번 시각 자료"
+    }
   },
   {
     "id": "20220424-063",
@@ -25248,7 +25758,12 @@
     "explanation": "정답은 2번 'elif'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220424-065.webp",
+      "alt": "문제 65번 시각 자료"
+    }
   },
   {
     "id": "20220424-066",
@@ -25316,7 +25831,12 @@
       "프로그래밍 언어 활용",
       "큐",
       "스케줄링"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220424-067.webp",
+      "alt": "문제 67번 시각 자료"
+    }
   },
   {
     "id": "20220424-068",
@@ -25446,7 +25966,12 @@
     "explanation": "정답은 2번 '0 1 2 3'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220424-071.webp",
+      "alt": "문제 71번 시각 자료"
+    }
   },
   {
     "id": "20220424-072",
@@ -25478,7 +26003,12 @@
     "explanation": "정답은 3번 '3'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220424-072.webp",
+      "alt": "문제 72번 시각 자료"
+    }
   },
   {
     "id": "20220424-073",
@@ -25543,7 +26073,12 @@
     "explanation": "정답은 2번 '1'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220424-074.webp",
+      "alt": "문제 74번 시각 자료"
+    }
   },
   {
     "id": "20220424-075",
@@ -25707,7 +26242,12 @@
     "explanation": "정답은 3번 '18, 10'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "프로그래밍 언어 활용"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220424-079.webp",
+      "alt": "문제 79번 시각 자료"
+    }
   },
   {
     "id": "20220424-080",
@@ -25970,7 +26510,12 @@
     "conceptTags": [
       "정보시스템 구축관리",
       "비용 산정"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220424-087.webp",
+      "alt": "문제 87번 시각 자료"
+    }
   },
   {
     "id": "20220424-088",
@@ -26066,7 +26611,12 @@
     "explanation": "정답은 1번 'Ping of Death'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "정보시스템 구축관리"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220424-090.webp",
+      "alt": "문제 90번 시각 자료"
+    }
   },
   {
     "id": "20220424-091",
@@ -26099,7 +26649,12 @@
     "conceptTags": [
       "정보시스템 구축관리",
       "프레임워크"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220424-091.webp",
+      "alt": "문제 91번 시각 자료"
+    }
   },
   {
     "id": "20220424-092",
@@ -26326,7 +26881,12 @@
     "explanation": "정답은 4번 'Authentication'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "정보시스템 구축관리"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220424-098.webp",
+      "alt": "문제 98번 시각 자료"
+    }
   },
   {
     "id": "20220424-099",
@@ -26358,7 +26918,12 @@
     "explanation": "정답은 1번 'SDN(Software Defined Networking)'. 출제 키워드를 중심으로 개념을 정리하세요.",
     "conceptTags": [
       "정보시스템 구축관리"
-    ]
+    ],
+    "visual": {
+      "type": "image",
+      "src": "assets/questions/20220424-099.webp",
+      "alt": "문제 99번 시각 자료"
+    }
   },
   {
     "id": "20220424-100",
