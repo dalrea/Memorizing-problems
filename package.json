@@ -10,6 +10,7 @@
     "extract": "python scripts/extract_pdf.py",
     "extract-images": "python scripts/extract_images.py",
     "extract-explanations": "python scripts/extract_explanations.py",
+    "clean-text": "python scripts/clean_question_text.py",
     "validate-data": "tsx scripts/validate-data.ts"
   },
   "devDependencies": {
